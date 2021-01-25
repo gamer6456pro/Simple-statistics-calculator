@@ -6,3 +6,4 @@ Features include, the amount of data points inputed, sorted data points, mean, m
 This calculator only does the stuff that we do in my school so it doesn't include other types of deviation besides Mean Absolute Deviation and IQR. 
 However feel free to leave suggestions on what I should Add!
 
+*Very sloppy code ik but rushed it out in a day for fun ig*
